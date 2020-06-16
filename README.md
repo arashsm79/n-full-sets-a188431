@@ -4,7 +4,7 @@ Algorithms for producing the sequence A188431 in OEIS.
 p5 sketch
 https://editor.p5js.org/arashsm79/full/bu130hzxv
 
-sequence link
+Sequence link
 https://oeis.org/A188431
 
 Persian article
