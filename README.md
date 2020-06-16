@@ -1,5 +1,6 @@
 # Number of N full sets - sequence a188431
-Algorithms for producing the sequence A188431 in OEIS
+Algorithms for producing the sequence A188431 in OEIS.
+
 p5 sketch
 https://editor.p5js.org/arashsm79/full/bu130hzxv
 
